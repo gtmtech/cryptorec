@@ -87,18 +87,3 @@ File.open( "liqui.csv", "w" ) do |file|
 end
 
 puts "Result written to liqui.csv"
-
-#{
-#  "success": 1,
-#  "return": {
-#    "11230496": {
-#      "pair": "omg_eth",
-#      "type": "buy",
-#      "amount": 32.51075379,
-#      "rate": 0.00397325,
-#      "order_id": 28134476,
-#      "is_your_order": true,
-#      "timestamp": 1500044957
-#    },
-
-
